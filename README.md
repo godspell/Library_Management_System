@@ -58,8 +58,8 @@ To eliminate this manual system, **Library Management System** has been develope
 
 ## Technology Stack Used
 
-**C++**
-**OOPS**
+**C++**,
+**OOPS**,
 **STL**
 
 Thank you for being here ♥ ♥ ♥ !
