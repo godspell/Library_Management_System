@@ -8,7 +8,7 @@ There are various problems also faced by the student in library such as finding 
 whether book is available or not, for what time this book will be available, searching of books using ISBN number etc. 
 To eliminate this manual system, **Library Management System** has been developed.
 
-> **You can download the repo [here](https://github.com/godspell/Library_Management_System.git).
+> You can download the repo [here](https://github.com/godspell/Library_Management_System.git).
 
 <!-- > **You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).** -->
 
