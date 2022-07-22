@@ -14,11 +14,6 @@ To eliminate this manual system, **Library Management System** has been develope
 
 ## Core Features
 
-![admin] 
-![search]
-![member] 
-![add]
-
 - **Searching** of books
 - **Issuing** and **returning** books
 - Check fines(if any)
